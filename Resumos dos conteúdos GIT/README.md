@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Dev-JeanCharles/Meus_Resumos_Programacao/blob/master/LICENSE) 
+
 # Meus Comandos para decoreba:
 
 # Iniciando projeto:

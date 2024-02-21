@@ -1,0 +1,17 @@
+{
+    "books": {
+        "book": {
+            "title": "The 4 Hour Work Week",
+            "isbn": "978-1935182443",
+            "author": {
+                "first": "Timothy",
+                "last": "Ferriss",
+                "twitter": "@tferriss"
+            },
+            "related": [
+                "The 4 Hour Body",
+                "The 4 Hour Chef"
+            ]
+        }
+    }
+}
